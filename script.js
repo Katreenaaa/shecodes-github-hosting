@@ -1,3 +1,5 @@
+const apiKey = "05o1cd814date45b8734a5f0a76a9e7d";
+
 function search(event) {
   event.preventDefault();
   let searchInputElement = document.querySelector("#search-input");
